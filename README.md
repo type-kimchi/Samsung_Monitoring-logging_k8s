@@ -4,13 +4,13 @@ Samsung Electronics DS project with Kyndrl, Samsung Electronics
 
 # DS Cloud Container 서비스 내재화
 
-##목적
+## 목적
 
 필요한 S/W를 플랫폼에 자유롭게 반영
 별도의 비용 부담 없이 플랫폼 배포/확대 가능
 사용목적 및 운영 수준에 따라 다양한 형태로 제공
 
-##타겟
+## 타겟
 
 ![image](https://user-images.githubusercontent.com/42171883/169241609-95f906d1-a27c-4220-99a0-a3a27b55ef6a.png)
 
@@ -27,7 +27,7 @@ Samsung Electronics DS project with Kyndrl, Samsung Electronics
 8. CI / CD 파이프 라인
 9. HA 및 DR 설계 및 계획
 
-##사용 소프트웨어
+## 사용 소프트웨어
 
 1. k8s
 2. Kspray
